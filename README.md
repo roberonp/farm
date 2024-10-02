@@ -1,7 +1,7 @@
 # farm
 
 # Hola 💬
-![logo1](https://github.com/Dreyuix/Dreyuix/assets/65123134/b610ada7-e668-44b9-80db-f3d030bb970b)
+![logo1](https://github.com/user-attachments/assets/0170c4d4-5c08-4d05-b7fb-3660af48b2f6)
 
 Soy un ingeniero de software apasionado por hacer que el código abierto sea más sencillo y accesible, crear tecnología en IoT para elevar a las personas y construir comunidades.
 
